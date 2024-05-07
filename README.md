@@ -3,10 +3,14 @@ All my solved Leetcode problems.
 
 Name |  Difficulty | Solution
 ---- | ------- | ------- 
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | <span style="color:#fac31d">Medium</span> | [Solution](./0002-add-two-numbers.md)
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | <span style="color:#fac31d">Medium</span> | [Solution](./0011-container-with-most-water.md)
 [15. 3Sum](https://leetcode.com/problems/3sum/) | <span style="color:#fac31d">Medium</span> | [Solution](./0015-3sum.md)
+[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | <span style="color:#fac31d">Medium</span> | [Solution](./0019-remove-nth-node-from-end-of-list.md)
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | <span style="color:#00b8a3">Easy</span> | [Solution](./0020-valid-parentheses.md)
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | <span style="color:#00b8a3">Easy</span> | [Solution](./0021-merge-two-sorted-lists.md)
+[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | <span style="color:#fac31d">Medium</span> | [Solution](./0022-generate-parentheses.md)
+[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | <span style="color:#ff375f">Hard</span> | [Solution](./0023-merge-k-sorted-lists.md)
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | <span style="color:#00b8a3">Easy</span> | [Solution](./0026-remove-duplicates-from-sorted-array.md)
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <span style="color:#ff375f">Hard</span> | [Solution](./0042-trapping-rain-water.md)
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <span style="color:#fac31d">Medium</span> | [Solution](./0049-group-anagrams.md)
@@ -16,9 +20,11 @@ Name |  Difficulty | Solution
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <span style="color:#00b8a3">Easy</span> | [Solution](./0125-valid-palindrome.md)
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | <span style="color:#00b8a3">Easy</span> | [Solution](./0121-best-time-to-buy-and-sell-stock.md)
 [128-longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | <span style="color:#fac31d">Medium</span> | [Solution](./0128-longest-consecutive-sequence.md)
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | <span style="color:#fac31d">Medium</span> | [Solution](./0138-copy-list-with-random-pointer.md)
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | <span style="color:#00b8a3">Easy</span> | [Solution](./0141-linked-list-cycle.md)
 [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | <span style="color:#fac31d">Medium</span> | [Solution](./0142-linked-list-cycle-ii.md.md)
 [143. Reorder List](https://leetcode.com/problems/reorder-list) | <span style="color:#fac31d">Medium</span> | [Solution](./0143-reorder-list.md)
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | <span style="color:#fac31d">Medium</span> | [Solution](./0146-lru-cache.md)
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | <span style="color:#fac31d">Medium</span> | [Solution](./0150-evaluate-reverse-polish-notation.md)
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | <span style="color:#fac31d">Medium</span> | [Solution](./0167-two-sum-ii---input-array-is-sorted.md)
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | <span style="color:#fac31d">Medium</span> | [Solution](./0209-minimum-size-subarray-sum.md)
