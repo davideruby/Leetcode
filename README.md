@@ -15,6 +15,7 @@ Name |  Difficulty | Solution
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | <span style="color:#ff375f">Hard</span> | [Solution](./0042-trapping-rain-water.md)
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | <span style="color:#fac31d">Medium</span> | [Solution](./0049-group-anagrams.md)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | <span style="color:#fac31d">Medium</span> | [Solution](./0053-maximum-subarray.md)
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | <span style="color:#fac31d">Medium</span> | [Solution](./0074-search-a-2d-matrix.md)
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | <span style="color:#ff375f">Hard</span> | [Solution](./0076-minimum-window-substring.md)
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | <span style="color:#ff375f">Hard</span> | [Solution](./0084-largest-rectangle-in-histogram.md)
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | <span style="color:#00b8a3">Easy</span> | [Solution](./0125-valid-palindrome.md)
