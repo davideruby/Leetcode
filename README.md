@@ -44,4 +44,4 @@ Name |  Difficulty | Solution
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0876-middle-of-the-linked-list.md)
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0978-longest-turbulent-subarray.md)
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.md)
-[2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](2130-maximum-twin-sum-of-a-linked-list.md)
+[2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/2130-maximum-twin-sum-of-a-linked-list.md)
