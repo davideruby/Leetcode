@@ -27,6 +27,7 @@ Name |  Difficulty | Solution
 [143. Reorder List](https://leetcode.com/problems/reorder-list) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0143-reorder-list.md)
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0146-lru-cache.md)
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0150-evaluate-reverse-polish-notation.md)
+[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0153-find-minimum-in-rotated-sorted-array.md)
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0167-two-sum-ii---input-array-is-sorted.md)
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0209-minimum-size-subarray-sum.md)
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0206-reverse-linked-list.md)
