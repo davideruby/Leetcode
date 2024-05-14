@@ -12,6 +12,7 @@ Name |  Difficulty | Solution
 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0022-generate-parentheses.md)
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0023-merge-k-sorted-lists.md)
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0026-remove-duplicates-from-sorted-array.md)
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0033-search-in-rotated-sorted-array.md)
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0042-trapping-rain-water.md)
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0049-group-anagrams.md)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0053-maximum-subarray.md)
