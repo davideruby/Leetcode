@@ -35,4 +35,4 @@ Most specifically, the deque must be a monotonic decreasing deque.
 So, loop over the array and perform these 3 steps to success:
 - Insert the current element to the right side of the deque. Before inserting it, pop every element which is lower than the current element.
 - The first element of the deque is the greatest one. Before inserting it into the result, check that it is still inside the current window of length k. If not, remove it from the deque: note that this time you have to remove the element from the left side (that's why it is crucial to use a deque instead of a simple stack).
-- Finnaly, insert the first element of the deque into the result.
+- Finally, insert the first element of the deque into the result.
