@@ -43,6 +43,7 @@ Name |  Difficulty | Solution
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0347-top-k-frequent-elements.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0424-longest-repeating-character-replacement.md)
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0496-next-greater-element-i.md)
+[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0543-diameter-of-binary-tree.md)
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0567-permutation-in-string.md)
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0739-daily-temperatures.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0875-koko-eating-bananas.md)
