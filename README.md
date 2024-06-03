@@ -36,6 +36,7 @@ Name |  Difficulty | Solution
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0206-reverse-linked-list.md)
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0219-contains-duplicate-ii.md)
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0226-invert-binary-tree.md)
+[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0238-product-of-array-except-self.md)
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0239-sliding-window-maximum.md)
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0242-valid-anagram.md)
