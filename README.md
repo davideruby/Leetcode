@@ -24,6 +24,7 @@ Name |  Difficulty | Solution
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0102-binary-tree-level-order-traversal.md)
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0104-maximum-depth-of-binary-tree.md)
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0110-balanced-binary-tree.md)
+[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0124-binary-tree-maximum-path-sum.md)
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0125-valid-palindrome.md)
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0121-best-time-to-buy-and-sell-stock.md)
 [128-longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0128-longest-consecutive-sequence.md)
