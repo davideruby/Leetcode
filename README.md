@@ -54,6 +54,7 @@ Name |  Difficulty | Solution
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0496-next-greater-element-i.md)
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0543-diameter-of-binary-tree.md)
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0567-permutation-in-string.md)
+[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0572-subtree-of-another-tree.md)
 [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0701-insert-into-a-binary-search-tree.md)
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0739-daily-temperatures.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0875-koko-eating-bananas.md)
