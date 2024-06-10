@@ -23,6 +23,7 @@ Name |  Difficulty | Solution
 [100. Same Tree](https://leetcode.com/problems/same-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0100-same-tree.md)
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0102-binary-tree-level-order-traversal.md)
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0104-maximum-depth-of-binary-tree.md)
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0110-balanced-binary-tree.md)
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0124-binary-tree-maximum-path-sum.md)
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0125-valid-palindrome.md)
