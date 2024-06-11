@@ -18,6 +18,7 @@ Name |  Difficulty | Solution
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0053-maximum-subarray.md)
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0074-search-a-2d-matrix.md)
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0076-minimum-window-substring.md)
+[78. Subsets](https://leetcode.com/problems/subsets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0078-subsets.md)
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0084-largest-rectangle-in-histogram.md)
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0098-validate-binary-search-tree.md)
 [100. Same Tree](https://leetcode.com/problems/same-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0100-same-tree.md)
