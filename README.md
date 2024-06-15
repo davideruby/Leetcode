@@ -18,6 +18,7 @@ Name |  Difficulty | Solution
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0053-maximum-subarray.md)
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0074-search-a-2d-matrix.md)
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0076-minimum-window-substring.md)
+[77. Combinations](https://leetcode.com/problems/combinations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0077-combinations.md)
 [78. Subsets](https://leetcode.com/problems/subsets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0078-subsets.md)
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0084-largest-rectangle-in-histogram.md)
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0090-subsets-ii.md)
