@@ -20,6 +20,7 @@ Name |  Difficulty | Solution
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0076-minimum-window-substring.md)
 [78. Subsets](https://leetcode.com/problems/subsets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0078-subsets.md)
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0084-largest-rectangle-in-histogram.md)
+[90. Subsets II](https://leetcode.com/problems/subsets-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0090-subsets-ii.md)
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0098-validate-binary-search-tree.md)
 [100. Same Tree](https://leetcode.com/problems/same-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0100-same-tree.md)
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0102-binary-tree-level-order-traversal.md)
