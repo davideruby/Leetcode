@@ -19,6 +19,7 @@ Name |  Difficulty | Solution
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0042-trapping-rain-water.md)
 [46. Permutations](https://leetcode.com/problems/permutations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0046-permutations.md)
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0049-group-anagrams.md)
+[51. N-Queens](https://leetcode.com/problems/n-queens/) | $${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0051-n-queens.md)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0053-maximum-subarray.md)
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0074-search-a-2d-matrix.md)
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0076-minimum-window-substring.md)
