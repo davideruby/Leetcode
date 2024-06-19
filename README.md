@@ -24,6 +24,7 @@ Name |  Difficulty | Solution
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0076-minimum-window-substring.md)
 [77. Combinations](https://leetcode.com/problems/combinations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0077-combinations.md)
 [78. Subsets](https://leetcode.com/problems/subsets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0078-subsets.md)
+[79. Word Search](https://leetcode.com/problems/word-search/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0079-word-search.md)
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0084-largest-rectangle-in-histogram.md)
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0090-subsets-ii.md)
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0098-validate-binary-search-tree.md)
