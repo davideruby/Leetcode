@@ -52,6 +52,7 @@ Name |  Difficulty | Solution
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0208-implement-trie-prefix-tree.md)
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0209-minimum-size-subarray-sum.md)
 [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0211-design-add-and-search-words-data-structure.md)
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0215-kth-largest-element-in-an-array.md)
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0219-contains-duplicate-ii.md)
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0226-invert-binary-tree.md)
 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0235-lowest-common-ancestor-of-a-binary-search-tree.md)
