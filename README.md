@@ -73,6 +73,7 @@ Name |  Difficulty | Solution
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0739-daily-temperatures.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0875-koko-eating-bananas.md)
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0876-middle-of-the-linked-list.md)
+[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0973-k-closest-points-to-origin.md)
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0978-longest-turbulent-subarray.md)
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.md)
 [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/1448-count-good-nodes-in-binary-tree.md)
