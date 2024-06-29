@@ -51,7 +51,7 @@ class Solution:
 ```
 
 ## Notes
-Perform a depth-first search on the grid on each cell of the grid: every time you find a `"1"`, discover all the other adjacent cells that form an island.
+Perform a depth-first search on each cell of the grid: every time you find a `"1"`, discover all the other adjacent cells that form an island.
 
 Besides, every time you visit a cell, mark it as visited, in order not to visit an island multiple times.
 
