@@ -71,6 +71,7 @@ Name |  Difficulty | Solution
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0543-diameter-of-binary-tree.md)
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0567-permutation-in-string.md)
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0572-subtree-of-another-tree.md)
+[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0695-max-area-of-island.md)
 [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0701-insert-into-a-binary-search-tree.md)
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0703-kth-largest-element-in-a-stream.md)
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0739-daily-temperatures.md)
