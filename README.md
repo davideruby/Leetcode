@@ -62,6 +62,7 @@ Name |  Difficulty | Solution
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ${\textsf{\color{green}Easy}}$ | [Solution](Leetcode/blob/main/0242-valid-anagram.md)
 [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0271-encode-and-decode-strings.md)
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0287-find-the-duplicate-number.md)
+[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ${\textsf{\color{red}Hard}}$ | [Solution](Leetcode/blob/main/0295-find-median-from-data-stream.md)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0347-top-k-frequent-elements.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0424-longest-repeating-character-replacement.md)
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0450-delete-node-in-a-bst.md)
