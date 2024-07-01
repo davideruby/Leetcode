@@ -3,7 +3,7 @@ All my solved Leetcode problems.
 
 Name |  Difficulty | Solution
 ---- | ------- | ------- 
-[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0002-add-two-numbers.md)
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0002-add-two-numbers.md)
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0011-container-with-most-water.md)
 [15. 3Sum](https://leetcode.com/problems/3sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0015-3sum.md)
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](Leetcode/blob/main/0017-letter-combinations-of-a-phone-number.md)
