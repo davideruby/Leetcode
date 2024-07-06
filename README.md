@@ -38,6 +38,7 @@ Name |  Difficulty | Solution
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0124-binary-tree-maximum-path-sum.md)
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0125-valid-palindrome.md)
 [128-longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0128-longest-consecutive-sequence.md)
+[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0130-surrounded-regions.md)
 [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0131-palindrome-partitioning.md)
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0133-clone-graph.md)
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0138-copy-list-with-random-pointer.md)
