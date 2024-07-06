@@ -52,6 +52,7 @@ Name |  Difficulty | Solution
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0199-binary-tree-right-side-view.md)
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0200-number-of-islands.md)
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0206-reverse-linked-list.md)
+[207. Course Schedule](https://leetcode.com/problems/course-schedule/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0207-course-schedule.md)
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0208-implement-trie-prefix-tree.md)
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0209-minimum-size-subarray-sum.md)
 [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0211-design-add-and-search-words-data-structure.md)
