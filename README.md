@@ -68,6 +68,7 @@ Name |  Difficulty | Solution
 [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0271-encode-and-decode-strings.md)
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0287-find-the-duplicate-number.md)
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0295-find-median-from-data-stream.md)
+[323. Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0323-number-of-connected-components-in-an-undirected-graph.md)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0347-top-k-frequent-elements.md)
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0417-pacific-atlantic-water-flow.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0424-longest-repeating-character-replacement.md)
