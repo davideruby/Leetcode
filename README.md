@@ -49,6 +49,7 @@ Name |  Difficulty | Solution
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0150-evaluate-reverse-polish-notation.md)
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0153-find-minimum-in-rotated-sorted-array.md)
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0167-two-sum-ii---input-array-is-sorted.md)
+[198. House Robber](https://leetcode.com/problems/house-robber/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0198-house-robber.md)
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0199-binary-tree-right-side-view.md)
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0200-number-of-islands.md)
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0206-reverse-linked-list.md)
