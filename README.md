@@ -6,6 +6,7 @@ My Leetcode profile: https://leetcode.com/u/daviderubi/
 Name |  Difficulty | Solution
 ---- | ------- | ------- 
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0002-add-two-numbers.md)
+[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0005-longest-palindromic-substring.md)
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0011-container-with-most-water.md)
 [15. 3Sum](https://leetcode.com/problems/3sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0015-3sum.md)
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0017-letter-combinations-of-a-phone-number.md)
