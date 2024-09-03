@@ -32,6 +32,7 @@ Name |  Difficulty | Solution
 [79. Word Search](https://leetcode.com/problems/word-search/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0079-word-search.md)
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0084-largest-rectangle-in-histogram.md)
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0090-subsets-ii.md)
+[91. Decode Ways](https://leetcode.com/problems/decode-ways/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0091-decode-ways.md)
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0098-validate-binary-search-tree.md)
 [100. Same Tree](https://leetcode.com/problems/same-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0100-same-tree.md)
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0102-binary-tree-level-order-traversal.md)
