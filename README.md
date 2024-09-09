@@ -47,6 +47,7 @@ Name |  Difficulty | Solution
 [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0131-palindrome-partitioning.md)
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0133-clone-graph.md)
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0138-copy-list-with-random-pointer.md)
+[139. Word Break](https://leetcode.com/problems/word-break/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0139-word-break.md)
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0141-linked-list-cycle.md)
 [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0142-linked-list-cycle-ii.md)
 [143. Reorder List](https://leetcode.com/problems/reorder-list) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0143-reorder-list.md)
