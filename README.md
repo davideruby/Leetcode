@@ -52,6 +52,7 @@ Name |  Difficulty | Solution
 [143. Reorder List](https://leetcode.com/problems/reorder-list) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0143-reorder-list.md)
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0146-lru-cache.md)
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0150-evaluate-reverse-polish-notation.md)
+[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0152-maximum-product-subarray.md)
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0153-find-minimum-in-rotated-sorted-array.md)
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0167-two-sum-ii---input-array-is-sorted.md)
 [198. House Robber](https://leetcode.com/problems/house-robber/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0198-house-robber.md)
