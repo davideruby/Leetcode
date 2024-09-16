@@ -86,6 +86,7 @@ Name |  Difficulty | Solution
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0450-delete-node-in-a-bst.md)
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0496-next-greater-element-i.md)
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0543-diameter-of-binary-tree.md)
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0560-subarray-sum-equals-k.md)
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0567-permutation-in-string.md)
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0572-subtree-of-another-tree.md)
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0647-palindromic-substrings.md)
