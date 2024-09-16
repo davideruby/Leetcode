@@ -80,6 +80,7 @@ Name |  Difficulty | Solution
 [322. Coin Change](https://leetcode.com/problems/coin-change/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0322-coin-change.md)
 [323. Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0323-number-of-connected-components-in-an-undirected-graph.md)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0347-top-k-frequent-elements.md)
+[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0416-partition-equal-subset-sum.md)
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0417-pacific-atlantic-water-flow.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0424-longest-repeating-character-replacement.md)
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0450-delete-node-in-a-bst.md)
