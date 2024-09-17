@@ -1,6 +1,7 @@
 ## [143. Reorder List](https://leetcode.com/problems/reorder-list)
 
 <h2 style="color:#fac31d">Medium</h2>
+
 You are given the head of a singly linked-list. The list can be represented as:
 
 L0 → L1 → … → Ln - 1 → Ln
