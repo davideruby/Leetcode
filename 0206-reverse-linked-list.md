@@ -1,6 +1,7 @@
 ## [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 <h2 style="color:#00b8a3">Easy</h2>
+
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 ## Solution
