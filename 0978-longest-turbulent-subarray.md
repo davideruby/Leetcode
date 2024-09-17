@@ -1,6 +1,7 @@
 ## [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
 
 <h2 style="color:#fac31d">Medium</h2>
+
 Given an integer array arr, return the length of a maximum size turbulent subarray of arr.
 
 A subarray is turbulent if the comparison sign flips between each adjacent pair of elements in the subarray.
