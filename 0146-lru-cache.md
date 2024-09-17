@@ -1,6 +1,7 @@
 ## [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
 
 <h2 style="color:#fac31d">Medium</h2>
+
 Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
 
 Implement the LRUCache class:
