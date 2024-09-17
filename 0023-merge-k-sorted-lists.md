@@ -47,4 +47,4 @@ class Solution:
 ```
 
 ## Notes
-If you use the logic of the merge sort, you can achieve a time complexity of O(nlogk)
+If you use the logic of the merge sort, you can achieve a time complexity of O(nlogk).
