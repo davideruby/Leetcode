@@ -77,6 +77,7 @@ Name |  Difficulty | Solution
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0287-find-the-duplicate-number.md)
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0295-find-median-from-data-stream.md)
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0300-longest-increasing-subsequence.md)
+[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0303-range-sum-query---immutable.md)
 [322. Coin Change](https://leetcode.com/problems/coin-change/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0322-coin-change.md)
 [323. Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0323-number-of-connected-components-in-an-undirected-graph.md)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0347-top-k-frequent-elements.md)
