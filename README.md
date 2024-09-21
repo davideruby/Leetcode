@@ -100,6 +100,7 @@ Name |  Difficulty | Solution
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0973-k-closest-points-to-origin.md)
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0978-longest-turbulent-subarray.md)
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0994-rotting-oranges.md)
+[1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1004-max-consecutive-ones-iii.md)
 [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1046-last-stone-weight.md)
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.md)
 [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1448-count-good-nodes-in-binary-tree.md)
