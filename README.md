@@ -20,6 +20,7 @@ Name |  Difficulty | Solution
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0039-combination-sum.md)
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0039-combination-sum-ii.md)
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0042-trapping-rain-water.md)
+[45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0045-jump-game-ii.md)
 [46. Permutations](https://leetcode.com/problems/permutations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0046-permutations.md)
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0049-group-anagrams.md)
 [51. N-Queens](https://leetcode.com/problems/n-queens/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0051-n-queens.md)
