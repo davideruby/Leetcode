@@ -98,6 +98,7 @@ Name |  Difficulty | Solution
 [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0701-insert-into-a-binary-search-tree.md)
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0703-kth-largest-element-in-a-stream.md)
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0739-daily-temperatures.md)
+[846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0846-hand-of-straights.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0875-koko-eating-bananas.md)
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0876-middle-of-the-linked-list.md)
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0973-k-closest-points-to-origin.md)
