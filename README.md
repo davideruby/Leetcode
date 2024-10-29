@@ -26,6 +26,7 @@ Name |  Difficulty | Solution
 [51. N-Queens](https://leetcode.com/problems/n-queens/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0051-n-queens.md)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0053-maximum-subarray.md)
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0055-jump-game.md)
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0062-unique-paths.md)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0070-climbing-stairs.md)
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0074-search-a-2d-matrix.md)
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0076-minimum-window-substring.md)
