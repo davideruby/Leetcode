@@ -114,3 +114,4 @@ Name |  Difficulty | Solution
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.md)
 [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1448-count-good-nodes-in-binary-tree.md)
 [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2130-maximum-twin-sum-of-a-linked-list.md)
+[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2390-removing-stars-from-a-string.md)
