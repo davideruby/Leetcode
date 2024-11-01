@@ -89,6 +89,7 @@ Name |  Difficulty | Solution
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0417-pacific-atlantic-water-flow.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0424-longest-repeating-character-replacement.md)
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0450-delete-node-in-a-bst.md)
+[494. Target Sum](https://leetcode.com/problems/target-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0494-target-sum.md)
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0496-next-greater-element-i.md)
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0543-diameter-of-binary-tree.md)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0560-subarray-sum-equals-k.md)
