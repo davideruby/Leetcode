@@ -28,6 +28,7 @@ Name |  Difficulty | Solution
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0053-maximum-subarray.md)
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0055-jump-game.md)
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0062-unique-paths.md)
+[66. Plus One](https://leetcode.com/problems/plus-one/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0066-plus-one.md)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0070-climbing-stairs.md)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0072-edit-distance.md)
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0074-search-a-2d-matrix.md)
