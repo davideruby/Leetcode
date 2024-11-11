@@ -45,6 +45,7 @@ Name |  Difficulty | Solution
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0104-maximum-depth-of-binary-tree.md)
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0105-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0110-balanced-binary-tree.md)
+[115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0115-distinct-subsequences.md)
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0121-best-time-to-buy-and-sell-stock.md)
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0124-binary-tree-maximum-path-sum.md)
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0125-valid-palindrome.md)
