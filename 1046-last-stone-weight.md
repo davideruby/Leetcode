@@ -1,6 +1,6 @@
 ## [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
-<h2 style="color:#00b8a3">Easy</h2>
+${\textsf{\color{green}Easy}}$
 
 You are given an array of integers stones where stones[i] is the weight of the ith stone.
 
