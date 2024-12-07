@@ -108,6 +108,7 @@ Name |  Difficulty | Solution
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0703-kth-largest-element-in-a-stream.md)
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0724-find-pivot-index.md)
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0739-daily-temperatures.md)
+[743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0743-network-delay-time.md)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0763-partition-labels.md)
 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0846-hand-of-straights.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0875-koko-eating-bananas.md)
