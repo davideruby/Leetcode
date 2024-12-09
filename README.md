@@ -110,6 +110,7 @@ Name |  Difficulty | Solution
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0739-daily-temperatures.md)
 [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0743-network-delay-time.md)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0763-partition-labels.md)
+[778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0778-swim-in-rising-water.md)
 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0846-hand-of-straights.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0875-koko-eating-bananas.md)
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0876-middle-of-the-linked-list.md)
