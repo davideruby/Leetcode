@@ -55,6 +55,7 @@ Name |  Difficulty | Solution
 [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0131-palindrome-partitioning.md)
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0133-clone-graph.md)
 [134. Gas Station](https://leetcode.com/problems/gas-station/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0134-gas-station.md)
+[136. Single Number](https://leetcode.com/problems/single-number/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0136-single-number.md)
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0138-copy-list-with-random-pointer.md)
 [139. Word Break](https://leetcode.com/problems/word-break/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0139-word-break.md)
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0141-linked-list-cycle.md)
