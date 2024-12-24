@@ -65,6 +65,7 @@ Name |  Difficulty | Solution
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0152-maximum-product-subarray.md)
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0153-find-minimum-in-rotated-sorted-array.md)
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0167-two-sum-ii---input-array-is-sorted.md)
+[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0191-number-of-1-bits.md)
 [198. House Robber](https://leetcode.com/problems/house-robber/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0198-house-robber.md)
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0199-binary-tree-right-side-view.md)
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0200-number-of-islands.md)
