@@ -131,6 +131,7 @@ Name |  Difficulty | Solution
 [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1584-min-cost-to-connect-all-points.md)
 [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1631-path-with-minimum-effort.md)
 [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2130-maximum-twin-sum-of-a-linked-list.md)
+[2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2270-number-of-ways-to-split-array.md)
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2390-removing-stars-from-a-string.md)
 [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2559-count-vowel-strings-in-ranges.md)
 [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2684-maximum-number-of-moves-in-a-grid.md)
