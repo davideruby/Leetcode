@@ -93,6 +93,7 @@ Name |  Difficulty | Solution
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0312-burst-balloons.md)
 [322. Coin Change](https://leetcode.com/problems/coin-change/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0322-coin-change.md)
 [323. Number of Connected Components In An Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0323-number-of-connected-components-in-an-undirected-graph.md)
+[338. Counting Bits](https://leetcode.com/problems/counting-bits/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0338-counting-bits.md)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0347-top-k-frequent-elements.md)
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0416-partition-equal-subset-sum.md)
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0417-pacific-atlantic-water-flow.md)
