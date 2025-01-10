@@ -121,6 +121,7 @@ Name |  Difficulty | Solution
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0867-transpose-matrix.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0875-koko-eating-bananas.md)
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0876-middle-of-the-linked-list.md)
+[916. Word Subsets](https://leetcode.com/problems/word-subsets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0916-word-subsets.md)
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0973-k-closest-points-to-origin.md)
 [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0978-longest-turbulent-subarray.md)
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0994-rotting-oranges.md)
