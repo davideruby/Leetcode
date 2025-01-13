@@ -144,3 +144,4 @@ Name |  Difficulty | Solution
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2390-removing-stars-from-a-string.md)
 [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2559-count-vowel-strings-in-ranges.md)
 [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2684-maximum-number-of-moves-in-a-grid.md)
+[3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3223-minimum-length-of-string-after-operations.md)
