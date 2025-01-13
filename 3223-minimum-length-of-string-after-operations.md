@@ -29,6 +29,6 @@ class Solution:
 ```
 
 ## Notes
-Initally, I solved the problem counting how many characters there are on the left and on the right of each character, but then I realized the only thing that matters is the frequency of each character.
+Initially, I solved the problem counting how many characters there are on the left and on the right of each character, but then I realized the only thing that matters is the frequency of each character.
 
 For example, if a characters appears 3 times, only one will remain; if a characters appears 4 times, only two will remain, and so on.
