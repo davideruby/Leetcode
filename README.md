@@ -120,6 +120,7 @@ Name |  Difficulty | Solution
 [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0743-network-delay-time.md)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0763-partition-labels.md)
 [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0778-swim-in-rising-water.md)
+[827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0827-making-a-large-island.md)
 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0846-hand-of-straights.md)
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0867-transpose-matrix.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0875-koko-eating-bananas.md)
