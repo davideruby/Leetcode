@@ -111,6 +111,7 @@ Name |  Difficulty | Solution
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0567-permutation-in-string.md)
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0572-subtree-of-another-tree.md)
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0647-palindromic-substrings.md)
+[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0684-redundant-connection.md)
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0695-max-area-of-island.md)
 [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0701-insert-into-a-binary-search-tree.md)
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0703-kth-largest-element-in-a-stream.md)
