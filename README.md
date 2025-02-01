@@ -150,4 +150,5 @@ Name |  Difficulty | Solution
 [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2658-maximum-number-of-fish-in-a-grid.md)
 [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2661-first-completely-painted-row-or-column.md)
 [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2684-maximum-number-of-moves-in-a-grid.md)
+[3151. Special Array I](https://leetcode.com/problems/special-array-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3151-special-array-i.md)
 [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3223-minimum-length-of-string-after-operations.md)
