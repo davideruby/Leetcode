@@ -145,6 +145,7 @@ Name |  Difficulty | Solution
 [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1752-check-if-array-is-sorted-and-rotated.md)
 [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1800-maximum-ascending-subarray-sum.md)
 [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1930-unique-length-3-palindromic-subsequences.md)
+[2013. Detect Squares](https://leetcode.com/problems/detect-squares/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2013-detect-squares.md)
 [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2130-maximum-twin-sum-of-a-linked-list.md)
 [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | ${\textsf{\color{green}Easy}}$ | [Solution](./2185-counting-words-with-a-given-prefix.md)
 [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2270-number-of-ways-to-split-array.md)
