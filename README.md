@@ -78,6 +78,7 @@ Name |  Difficulty | Solution
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0207-course-schedule.md)
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0208-implement-trie-prefix-tree.md)
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0209-minimum-size-subarray-sum.md)
+[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0210-course-schedule-ii.md)
 [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0211-design-add-and-search-words-data-structure.md)
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0215-kth-largest-element-in-an-array.md)
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0219-contains-duplicate-ii.md)
