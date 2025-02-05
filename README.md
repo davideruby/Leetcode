@@ -143,6 +143,7 @@ Name |  Difficulty | Solution
 [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1584-min-cost-to-connect-all-points.md)
 [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1631-path-with-minimum-effort.md)
 [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1752-check-if-array-is-sorted-and-rotated.md)
+[1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1790-check-if-one-string-swap-can-make-strings-equal.md)
 [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1800-maximum-ascending-subarray-sum.md)
 [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1930-unique-length-3-palindromic-subsequences.md)
 [2013. Detect Squares](https://leetcode.com/problems/detect-squares/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2013-detect-squares.md)
