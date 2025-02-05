@@ -90,6 +90,7 @@ Name |  Difficulty | Solution
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0242-valid-anagram.md)
 [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0261-graph-valid-tree.md)
 [268. Missing Number](https://leetcode.com/problems/missing-number/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0268-missing-number.md)
+[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | ${\textsf{\color{red}Hard}}$ | [Solution](./0269-alien-dictionary.md)
 [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0271-encode-and-decode-strings.md)
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0287-find-the-duplicate-number.md)
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0295-find-median-from-data-stream.md)
