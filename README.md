@@ -158,4 +158,5 @@ Name |  Difficulty | Solution
 [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2684-maximum-number-of-moves-in-a-grid.md)
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray.md)
 [3151. Special Array I](https://leetcode.com/problems/special-array-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3151-special-array-i.md)
+[3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3160-find-the-number-of-distinct-colors-among-the-balls.md)
 [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3223-minimum-length-of-string-after-operations.md)
