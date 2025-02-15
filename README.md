@@ -138,6 +138,7 @@ Name |  Difficulty | Solution
 [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1296-divide-array-in-sets-of-k-consecutive-numbers.md)
 [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1331-rank-transform-of-an-array.md)
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.md)
+[1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1352-product-of-the-last-k-numbers.md)
 [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1400-construct-k-palindrome-strings.md)
 [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1422-maximum-score-after-splitting-a-string.md)
 [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1448-count-good-nodes-in-binary-tree.md)
