@@ -156,6 +156,7 @@ Name |  Difficulty | Solution
 [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2270-number-of-ways-to-split-array.md)
 [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2342-max-sum-of-a-pair-with-equal-sum-of-digits.md)
 [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2364-count-number-of-bad-pairs.md)
+[2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2375-construct-smallest-number-from-di-string.md)
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2390-removing-stars-from-a-string.md)
 [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2559-count-vowel-strings-in-ranges.md)
 [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2658-maximum-number-of-fish-in-a-grid.md)
