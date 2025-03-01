@@ -134,6 +134,7 @@ Name |  Difficulty | Solution
 [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1004-max-consecutive-ones-iii.md)
 [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1046-last-stone-weight.md)
 [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1079-letter-tile-possibilities.md)
+[1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | ${\textsf{\color{red}Hard}}$ | [Solution](./1092-shortest-common-supersequence.md)
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1143-longest-common-subsequence.md)
 [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1267-count-servers-that-communicate.md)
 [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1296-divide-array-in-sets-of-k-consecutive-numbers.md)
