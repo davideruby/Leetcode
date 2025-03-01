@@ -147,6 +147,7 @@ Name |  Difficulty | Solution
 [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1584-min-cost-to-connect-all-points.md)
 [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1631-path-with-minimum-effort.md)
 [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1718-construct-the-lexicographically-largest-valid-sequence.md)
+[1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1749-maximum-absolute-sum-of-any-subarray.md)
 [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1752-check-if-array-is-sorted-and-rotated.md)
 [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1790-check-if-one-string-swap-can-make-strings-equal.md)
 [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1800-maximum-ascending-subarray-sum.md)
