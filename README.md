@@ -164,6 +164,7 @@ Name |  Difficulty | Solution
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2390-removing-stars-from-a-string.md)
 [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | ${\textsf{\color{green}Easy}}$ | [Solution](./2460-apply-operations-to-an-array.md)
 [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2559-count-vowel-strings-in-ranges.md)
+[2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | ${\textsf{\color{green}Easy}}$ | [Solution](./2570-merge-two-2d-arrays-by-summing-values.md)
 [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2658-maximum-number-of-fish-in-a-grid.md)
 [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2661-first-completely-painted-row-or-column.md)
 [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2684-maximum-number-of-moves-in-a-grid.md)
