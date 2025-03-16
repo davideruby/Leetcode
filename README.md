@@ -177,3 +177,4 @@ Name |  Difficulty | Solution
 [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3174-clear-digits.md)
 [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3223-minimum-length-of-string-after-operations.md)
 [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3355-zero-array-transformation-i.md)
+[3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3356-zero-array-transformation-ii.md)
