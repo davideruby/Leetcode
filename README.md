@@ -156,6 +156,7 @@ Name |  Difficulty | Solution
 [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1930-unique-length-3-palindromic-subsequences.md)
 [2013. Detect Squares](https://leetcode.com/problems/detect-squares/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2013-detect-squares.md)
 [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2130-maximum-twin-sum-of-a-linked-list.md)
+[2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2140-solving-questions-with-brainpower.md)
 [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2161-partition-array-according-to-given-pivot.md)
 [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | ${\textsf{\color{green}Easy}}$ | [Solution](./2185-counting-words-with-a-given-prefix.md)
 [2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2226-maximum-candies-allocated-to-k-children.md)
