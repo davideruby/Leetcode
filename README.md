@@ -172,6 +172,7 @@ Name |  Difficulty | Solution
 [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2661-first-completely-painted-row-or-column.md)
 [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2684-maximum-number-of-moves-in-a-grid.md)
 [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2698-find-the-punishment-number-of-an-integer.md)
+[2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2874-maximum-value-of-an-ordered-triplet-ii.md)
 [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3066-minimum-operations-to-exceed-threshold-value-ii.md)
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray.md)
 [3151. Special Array I](https://leetcode.com/problems/special-array-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3151-special-array-i.md)
