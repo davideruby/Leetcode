@@ -125,6 +125,7 @@ Name |  Difficulty | Solution
 [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0778-swim-in-rising-water.md)
 [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0827-making-a-large-island.md)
 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0846-hand-of-straights.md)
+[853. Car Fleet](https://leetcode.com/problems/car-fleet/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0853-car-fleet.md)
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0867-transpose-matrix.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0875-koko-eating-bananas.md)
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0876-middle-of-the-linked-list.md)
