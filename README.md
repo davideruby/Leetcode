@@ -33,6 +33,7 @@ Name |  Difficulty | Solution
 [66. Plus One](https://leetcode.com/problems/plus-one/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0066-plus-one.md)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0070-climbing-stairs.md)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0072-edit-distance.md)
+[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0073-set-matrix-zeroes.md)
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0074-search-a-2d-matrix.md)
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0076-minimum-window-substring.md)
 [77. Combinations](https://leetcode.com/problems/combinations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0077-combinations.md)
