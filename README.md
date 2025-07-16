@@ -180,6 +180,7 @@ Name |  Difficulty | Solution
 [2874. Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2874-maximum-value-of-an-ordered-triplet-ii.md)
 [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3066-minimum-operations-to-exceed-threshold-value-ii.md)
 [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray.md)
+[3136. Valid Word](https://leetcode.com/problems/valid-word/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3136-valid-word.md) 
 [3151. Special Array I](https://leetcode.com/problems/special-array-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3151-special-array-i.md)
 [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3160-find-the-number-of-distinct-colors-among-the-balls.md)
 [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3174-clear-digits.md)
