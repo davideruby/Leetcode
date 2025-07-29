@@ -20,6 +20,7 @@ Name |  Difficulty | Solution
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0023-merge-k-sorted-lists.md)
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0026-remove-duplicates-from-sorted-array.md)
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0033-search-in-rotated-sorted-array.md)
+[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0035-search-insert-position.md)
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0036-valid-sudoku.md)
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0039-combination-sum.md)
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0039-combination-sum-ii.md)
