@@ -41,6 +41,7 @@ Name |  Difficulty | Solution
 [77. Combinations](https://leetcode.com/problems/combinations/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0077-combinations.md)
 [78. Subsets](https://leetcode.com/problems/subsets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0078-subsets.md)
 [79. Word Search](https://leetcode.com/problems/word-search/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0079-word-search.md)
+[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0083-remove-duplicates-from-sorted-list.md)
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0084-largest-rectangle-in-histogram.md)
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0090-subsets-ii.md)
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0091-decode-ways.md)
