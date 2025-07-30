@@ -32,6 +32,7 @@ Name |  Difficulty | Solution
 [51. N-Queens](https://leetcode.com/problems/n-queens/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0051-n-queens.md)
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0053-maximum-subarray.md)
 [55. Jump Game](https://leetcode.com/problems/jump-game/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0055-jump-game.md)
+[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0058-length-of-last-word.md)
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0062-unique-paths.md)
 [66. Plus One](https://leetcode.com/problems/plus-one/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0066-plus-one.md)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0070-climbing-stairs.md)
