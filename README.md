@@ -56,6 +56,7 @@ Name |  Difficulty | Solution
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0110-balanced-binary-tree.md)
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0111-minimum-depth-of-binary-tree.md)
 [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0115-distinct-subsequences.md)
+[118. Pascal's Triangle](http://leetcode.com/problems/pascals-triangle/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0118-pascals-triangle.md)
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0121-best-time-to-buy-and-sell-stock.md)
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0124-binary-tree-maximum-path-sum.md)
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0125-valid-palindrome.md)
