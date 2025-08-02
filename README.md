@@ -71,6 +71,7 @@ Name |  Difficulty | Solution
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0141-linked-list-cycle.md)
 [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0142-linked-list-cycle-ii.md)
 [143. Reorder List](https://leetcode.com/problems/reorder-list) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0143-reorder-list.md)
+[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0144-binary-tree-preorder-traversal.md)
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0146-lru-cache.md)
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0150-evaluate-reverse-polish-notation.md)
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0152-maximum-product-subarray.md)
