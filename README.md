@@ -198,3 +198,4 @@ Name |  Difficulty | Solution
 [3355. Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3355-zero-array-transformation-i.md)
 [3356. Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./3356-zero-array-transformation-ii.md)
 [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3396-minimum-number-of-operations-to-make-elements-in-array-distinct.md)
+[3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | ${\textsf{\color{green}Easy}}$ | [Solution](./3477-fruits-into-baskets-ii.md)
