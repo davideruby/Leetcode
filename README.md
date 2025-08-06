@@ -35,6 +35,7 @@ Name |  Difficulty | Solution
 [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0058-length-of-last-word.md)
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0062-unique-paths.md)
 [66. Plus One](https://leetcode.com/problems/plus-one/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0066-plus-one.md)
+[67. Add Binary](https://leetcode.com/problems/add-binary/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0067-add-binary.md)
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0070-climbing-stairs.md)
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0072-edit-distance.md)
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0073-set-matrix-zeroes.md)
