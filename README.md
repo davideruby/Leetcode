@@ -97,6 +97,7 @@ Name |  Difficulty | Solution
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0230-kth-smallest-element-in-a-bst.md)
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0238-product-of-array-except-self.md)
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0239-sliding-window-maximum.md)
+[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0240-search-a-2d-matrix-ii.md)
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0242-valid-anagram.md)
 [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0261-graph-valid-tree.md)
 [268. Missing Number](https://leetcode.com/problems/missing-number/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0268-missing-number.md)
