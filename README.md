@@ -114,6 +114,7 @@ Name |  Difficulty | Solution
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0338-counting-bits.md)
 [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0345-reverse-vowels-of-a-string.md)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0347-top-k-frequent-elements.md)
+[355. Design Twitter](https://leetcode.com/problems/design-twitter/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0355-design-twitter.md)
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0416-partition-equal-subset-sum.md)
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0417-pacific-atlantic-water-flow.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0424-longest-repeating-character-replacement.md)
