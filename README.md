@@ -123,6 +123,7 @@ Name |  Difficulty | Solution
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0450-delete-node-in-a-bst.md)
 [494. Target Sum](https://leetcode.com/problems/target-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0494-target-sum.md)
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0496-next-greater-element-i.md)
+[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0515-find-largest-value-in-each-tree-row.md)
 [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0518-coin-change-ii.md)
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0543-diameter-of-binary-tree.md)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0560-subarray-sum-equals-k.md)
