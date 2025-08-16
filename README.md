@@ -158,6 +158,7 @@ Name |  Difficulty | Solution
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1143-longest-common-subsequence.md)
 [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1267-count-servers-that-communicate.md)
 [1296. Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1296-divide-array-in-sets-of-k-consecutive-numbers.md)
+[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1323-maximum-69-number.md)
 [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | ${\textsf{\color{green}Easy}}$ | [Solution](./1331-rank-transform-of-an-array.md)
 [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.md)
 [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./1352-product-of-the-last-k-numbers.md)
