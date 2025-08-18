@@ -121,6 +121,7 @@ Name |  Difficulty | Solution
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0416-partition-equal-subset-sum.md)
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0417-pacific-atlantic-water-flow.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0424-longest-repeating-character-replacement.md)
+[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0448-find-all-numbers-disappeared-in-an-array.md)
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0450-delete-node-in-a-bst.md)
 [494. Target Sum](https://leetcode.com/problems/target-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0494-target-sum.md)
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0496-next-greater-element-i.md)
