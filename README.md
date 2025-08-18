@@ -117,6 +117,7 @@ Name |  Difficulty | Solution
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0349-intersection-of-two-arrays.md)
 [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0355-design-twitter.md)
 [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0389-find-the-difference.md)
+[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0404-sum-of-left-leaves.md)
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0416-partition-equal-subset-sum.md)
 [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0417-pacific-atlantic-water-flow.md)
 [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0424-longest-repeating-character-replacement.md)
