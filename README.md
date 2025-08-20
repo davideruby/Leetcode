@@ -188,6 +188,7 @@ Name |  Difficulty | Solution
 [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | ${\textsf{\color{green}Easy}}$ | [Solution](./2264-largest-3-same-digit-number-in-string.md)
 [2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2270-number-of-ways-to-split-array.md)
 [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2342-max-sum-of-a-pair-with-equal-sum-of-digits.md)
+[2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2348-number-of-zero-filled-subarrays.md)
 [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2364-count-number-of-bad-pairs.md)
 [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2375-construct-smallest-number-from-di-string.md)
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./2390-removing-stars-from-a-string.md)
