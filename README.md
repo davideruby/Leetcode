@@ -142,6 +142,7 @@ Name |  Difficulty | Solution
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0724-find-pivot-index.md)
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0739-daily-temperatures.md)
 [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0743-network-delay-time.md)
+[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0744-find-smallest-letter-greater-than-target.md)
 [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0746-min-cost-climbing-stairs.md)
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0763-partition-labels.md)
 [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0778-swim-in-rising-water.md)
