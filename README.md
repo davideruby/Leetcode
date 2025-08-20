@@ -147,6 +147,7 @@ Name |  Difficulty | Solution
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0763-partition-labels.md)
 [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0778-swim-in-rising-water.md)
 [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | ${\textsf{\color{red}Hard}}$ | [Solution](./0827-making-a-large-island.md)
+[830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0830-positions-of-large-groups.md)
 [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0846-hand-of-straights.md)
 [853. Car Fleet](https://leetcode.com/problems/car-fleet/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0853-car-fleet.md)
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0867-transpose-matrix.md)
