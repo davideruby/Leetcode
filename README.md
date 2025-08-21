@@ -155,6 +155,7 @@ Name |  Difficulty | Solution
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0867-transpose-matrix.md)
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0875-koko-eating-bananas.md)
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0876-middle-of-the-linked-list.md)
+[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0884-uncommon-words-from-two-sentences.md)
 [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0904-fruit-into-baskets.md)
 [916. Word Subsets](https://leetcode.com/problems/word-subsets/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0916-word-subsets.md)
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0973-k-closest-points-to-origin.md)
