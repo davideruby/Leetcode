@@ -85,6 +85,7 @@ Name |  Difficulty | Solution
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0199-binary-tree-right-side-view.md)
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0200-number-of-islands.md)
 [202. Happy Number](https://leetcode.com/problems/happy-number/description/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0202-happy-number.md)
+[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| ${\textsf{\color{green}Easy}}$ | [Solution](./0203-remove-linked-list-elements.md)
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0206-reverse-linked-list.md)
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0207-course-schedule.md)
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0208-implement-trie-prefix-tree.md)
