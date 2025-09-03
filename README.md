@@ -78,6 +78,7 @@ Name |  Difficulty | Solution
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0152-maximum-product-subarray.md)
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0153-find-minimum-in-rotated-sorted-array.md)
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0167-two-sum-ii---input-array-is-sorted.md)
+[169. Majority Element](https://leetcode.com/problems/majority-element/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0169-majority-element.md)
 [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0190-reverse-bits.md)
 [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ${\textsf{\color{green}Easy}}$ | [Solution](./0191-number-of-1-bits.md)
 [198. House Robber](https://leetcode.com/problems/house-robber/) | ${\textsf{\color{yellow}Medium}}$ | [Solution](./0198-house-robber.md)
